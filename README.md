@@ -2,4 +2,4 @@
 
 Repository dedicated to the NOVA Cidade Git Workshop
 Change 1
-
+Hello, I'm afraid of terminals :(
